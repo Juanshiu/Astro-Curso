@@ -1,0 +1,21 @@
+{
+    "proyects": [
+        {
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti laudantium eaque eius quod! Sapiente maxime repellendus nisi exercitationem, sequi saepe. Obcaecati officiis commodi alias magnam porro illum architecto odit ex.",
+            "image": "../../public/images/fingerprint.svg"
+        },
+    
+        {
+            "title": "Project 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti laudantium eaque eius quod! Sapiente maxime repellendus nisi exercitationem, sequi saepe. Obcaecati officiis commodi alias magnam porro illum architecto odit ex.",
+            "image": "../../public/images/fingerprint.svg"
+        },
+    
+        {
+            "title": "Project 3",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti laudantium eaque eius quod! Sapiente maxime repellendus nisi exercitationem, sequi saepe. Obcaecati officiis commodi alias magnam porro illum architecto odit ex.",
+            "image": "../../public/images/fingerprint.svg"
+        }
+    ]
+}
